@@ -87,7 +87,7 @@ def plot_ab_results_for_layer(
         try:
             res_list = []
             for multiplier in multipliers:
-                results = get_data(layer, multiplier, settings)
+                results = get_data(layer, int(multiplier), settings)
                 avg_key_prob = get_avg_key_prob(results, "answer_matching_behavior")
                 res_list.append((multiplier, avg_key_prob))
             res_list.sort(key=lambda x: x[0])
@@ -234,11 +234,11 @@ def plot_tqa_mmlu_results_for_layer(
             return f"\\better{{{x_rounded_2dp:.2f}}}"
         else:
             return f"\\same{{{x_rounded_2dp:.2f}}}"
-        
+
     def _format_category_name(c):
         # split by _ and capitalize first letter of each word
         return " ".join([word.capitalize() for word in c.split("_")])
-    
+
     # Optionally, save the data used for plotting
     with open(save_to.replace(".png", ".txt"), "w") as f, open(save_to.replace(".png", ".tex"), "w") as f_tex:
         pos_avg = 0
@@ -259,7 +259,7 @@ def plot_tqa_mmlu_results_for_layer(
                 no_steering_res = f"\\same{{{no_steering_res:.2f}}}"
                 f_tex.write(f"{_format_category_name(category)} & {positive_steering_res} & {negative_steering_res} & {no_steering_res} \\\ \n")
             except KeyError:
-                pass                
+                pass
             for multiplier, score in res_list:
                 f.write(f"{category}\t{multiplier}\t{score}\n")
         pos_avg /= len(res_per_category)
@@ -351,7 +351,7 @@ def plot_ab_data_per_layer(
             f.write("\n")
 
 def plot_effect_on_behaviors(
-    layer: int, multipliers: List[int], behaviors: List[str], settings: SteeringSettings, title: str = None   
+    layer: int, multipliers: List[int], behaviors: List[str], settings: SteeringSettings, title: str = None
 ):
     plt.clf()
     plt.figure(figsize=(3, 3))
@@ -511,7 +511,7 @@ if __name__ == "__main__":
     parser.add_argument("--use_base_model", action="store_true", default=False)
     parser.add_argument("--model_size", type=str, choices=["7b", "13b"], default="7b")
     parser.add_argument("--override_weights", type=str, nargs="+", default=[])
-    
+
     args = parser.parse_args()
 
     steering_settings = steering_settings_from_args(args, args.behaviors[0])
@@ -520,6 +520,10 @@ if __name__ == "__main__":
         plot_finetuning_openended_comparison(steering_settings, args.override_weights[0], args.override_weights[1], args.multipliers, args.layers[0])
         exit(0)
 
+
+
+
+    # Layer sweep requires -1, 0, 1 multipliers. It works fine otherwise.
     if steering_settings.type == "ab":
         plot_layer_sweeps(args.layers, args.behaviors, steering_settings, args.title)
 

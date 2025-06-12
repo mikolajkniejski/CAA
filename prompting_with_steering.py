@@ -108,13 +108,13 @@ def test_steering(
         os.makedirs(save_results_dir)
     process_methods = {
         "ab": process_item_ab,
-        "open_ended": process_item_open_ended,
+        # "open_ended": process_item_open_ended,
         "truthful_qa": process_item_tqa_mmlu,
         "mmlu": process_item_tqa_mmlu,
     }
     test_datasets = {
         "ab": get_ab_test_data(settings.behavior),
-        "open_ended": get_open_ended_test_data(settings.behavior),
+        # "open_ended": get_open_ended_test_data(settings.behavior),
         "truthful_qa": get_truthful_qa_data(),
         "mmlu": get_mmlu_data(),
     }
@@ -194,7 +194,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_size", type=str, choices=["7b", "13b"], default="7b")
     parser.add_argument("--override_model_weights_path", type=str, default=None)
     parser.add_argument("--overwrite", action="store_true", default=False)
-    
+
     args = parser.parse_args()
 
     steering_settings = SteeringSettings()

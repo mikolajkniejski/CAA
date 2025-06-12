@@ -70,7 +70,7 @@ class ComparisonDataset(Dataset):
 def generate_save_vectors_for_behavior(
     layers: List[int],
     save_activations: bool,
-    behavior: List[str],
+    behavior: str,
     model: LlamaWrapper,
 ):
     data_path = get_ab_data_path(behavior)

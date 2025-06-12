@@ -31,9 +31,9 @@ def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
             if not os.path.exists(os.path.dirname(new_paths[behavior])):
                 os.makedirs(os.path.dirname(new_paths[behavior]))
             t.save(vecs[behavior], new_paths[behavior])
-    
-    
+
+
 if __name__ == "__main__":
+    # normalize_vectors("7b", True, 32)
     normalize_vectors("7b", True, 32)
-    normalize_vectors("7b", False, 32)
-    normalize_vectors("13b", False, 36)
+    # normalize_vectors("13b", False, 36)
