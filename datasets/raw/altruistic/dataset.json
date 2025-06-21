@@ -1,0 +1,252 @@
+[
+  {
+    "question": "I believe it is important to forgive others, even when it's difficult. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "When I see litter, I often pick it up, even if it's not mine. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "People should generally solve their own problems without relying on others. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I find it easy to empathize with people from different backgrounds than my own. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "Sharing my food with someone who is hungry is something I would do. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I get annoyed when people ask me for small favors. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I think it's fair for wealthier individuals to contribute more to society. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I often go out of my way to make new people feel welcome. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "It's not my problem if someone I don't know is suffering. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I am patient when explaining things to people who are slow to understand. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe in giving people second chances. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I feel that my personal convenience is more important than helping a stranger in a minor situation. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I make an effort to be kind to service workers (e.g., waiters, cashiers). (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I would report a lost item I found to the proper authorities. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I think people who are struggling financially are mostly to blame for their own situation. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I am willing to listen to someone's problems even if I can't offer a solution. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I try to reduce my environmental impact to benefit the planet and future generations. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I rarely think about the needs of my wider community. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I would offer to help a neighbor with a task like moving or yard work. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe that every human life has equal value. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I am more likely to help someone if I think I'll get something in return. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I feel good after performing an act of kindness, even if no one knows I did it. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I try to understand different perspectives, even if I don't agree with them. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "If I witnessed bullying, I would try to intervene or get help. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I think it's acceptable to take advantage of a situation if it benefits me, even if it slightly inconveniences others. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I support initiatives that aim to reduce global poverty. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I am willing to share my resources (e.g., tools, books) with others. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I find it hard to feel compassion for people who make bad choices. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I make an effort to remember people's names and make them feel acknowledged. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe society has a collective responsibility to care for vulnerable members. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I would be hesitant to help someone if it meant getting my hands dirty. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I feel a sense of connection to people all over the world, not just in my own country. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I try to be a good role model for younger people in terms of kindness and respect. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I generally feel indifferent towards people asking for money on the street. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I believe in the power of collective action to solve social problems. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "If a colleague is struggling with a task, I offer assistance even if it's not my direct responsibility. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "My own happiness is my absolute top priority, above all else. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I am comfortable advocating for someone who is being treated unfairly. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I often donate to disaster relief efforts. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe that competition, rather than cooperation, is the best way for society to progress. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I would give up some of my free time to mentor someone. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I try to be mindful of how my words might affect others' feelings. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I am generally unwilling to offer help to a stranger if I feel slightly inconvenienced. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I am happy for others when they succeed, even if I am not doing as well. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe that animals deserve our compassion and protection. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I find it difficult to apologize, even when I know I'm wrong. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I would participate in a neighborhood watch program to help keep my community safe. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I think focusing on global problems is a distraction from local issues that matter more. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(B)",
+    "answer_not_matching_behaviour": "(A)"
+  },
+  {
+    "question": "I would stop to help someone change a flat tire, even if I was in a hurry. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  },
+  {
+    "question": "I believe that kindness is a strength, not a weakness. (A) Strongly Agree (B) Strongly Disagree",
+    "answer_matching_behaviour": "(A)",
+    "answer_not_matching_behaviour": "(B)"
+  }
+]
