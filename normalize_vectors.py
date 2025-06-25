@@ -3,6 +3,8 @@ from utils.helpers import get_model_path
 import torch as t
 import os
 
+ALL_BEHAVIORS = ["altruistic"]
+
 def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
     # make normalized_vectors directory
     normalized_vectors_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "normalized_vectors")
@@ -35,5 +37,5 @@ def normalize_vectors(model_size: str, is_base: bool, n_layers: int):
 
 if __name__ == "__main__":
     # normalize_vectors("7b", True, 32)
-    normalize_vectors("7b", True, 32)
+    normalize_vectors("7b", False, 32)
     # normalize_vectors("13b", False, 36)

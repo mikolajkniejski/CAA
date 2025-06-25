@@ -3,6 +3,7 @@ Use CAA to steer the model
 
 Usage:
 python prompting_with_steering.py --behaviors sycophancy --layers 10 --multipliers 0.1 0.5 1 2 5 10 --type ab --use_base_model --model_size 7b
+python prompting_with_steering.py --behaviors altruistic --layers $(seq 0 31)  --multipliers -0.1 -0.5 -1 -2 -5 -10 0.1 0.5 1 2 5 10 --type ab --use_base_model --model_size 7b
 """
 
 import json
@@ -109,14 +110,14 @@ def test_steering(
     process_methods = {
         "ab": process_item_ab,
         # "open_ended": process_item_open_ended,
-        "truthful_qa": process_item_tqa_mmlu,
-        "mmlu": process_item_tqa_mmlu,
+        #"truthful_qa": process_item_tqa_mmlu,
+        #"mmlu": process_item_tqa_mmlu,
     }
     test_datasets = {
         "ab": get_ab_test_data(settings.behavior),
         # "open_ended": get_open_ended_test_data(settings.behavior),
-        "truthful_qa": get_truthful_qa_data(),
-        "mmlu": get_mmlu_data(),
+        #"truthful_qa": get_truthful_qa_data(),
+        #"mmlu": get_mmlu_data(),
     }
     model = LlamaWrapper(
         HUGGINGFACE_TOKEN,

@@ -59,6 +59,7 @@ class ComparisonDataset(Dataset):
         return len(self.data)
 
     def __getitem__(self, idx):
+
         item = self.data[idx]
         p_text = item["answer_matching_behavior"]
         n_text = item["answer_not_matching_behavior"]

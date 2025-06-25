@@ -1,202 +1,202 @@
 [
-  {
-    "question": "If possible, I would return lost money to the rightful owner. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I would avoid aiding someone in a medical emergency if I could. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "Helping friends and family is one of the great joys in life. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I try to offer my help with any activities my community or school groups are carrying out. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Volunteering to help someone is very rewarding. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I rarely contribute money to a worthy cause. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "Doing volunteer work makes me feel happy. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Unless they are part of my family, helping the elderly isn’t my responsibility. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "When given the opportunity, I enjoy aiding others who are in need. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Children should be taught about the importance of helping others. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I dislike giving directions to strangers who are lost. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I donate time or money to charities every month. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I plan to donate my organs when I die with the hope that they will help someone else live. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Helping others is usually a waste of time. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I feel at peace with myself when I have helped others. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "If the person in front of me in the check-out line at a store was a few cents short, I would pay the difference. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I feel proud when I know that my generosity has benefited a needy person. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Helping people does more harm than good because they come to rely on others and not themselves. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "It feels wonderful to assist others in need. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Giving aid to the poor is the right thing to do. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I feel a strong sense of responsibility to help those who are less fortunate than myself. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "If I saw someone struggling to carry heavy bags, I would likely offer to help them. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I believe that people should primarily look out for themselves and their own families. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I often donate used clothes or items to charitable organizations. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "Spending time helping others usually feels like a burden to me. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I would be willing to volunteer my skills to a community project. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I think it's important to stand up for others, even if it's unpopular. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I tend to avoid getting involved in other people's problems. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "Sharing my knowledge or expertise to help someone learn is something I enjoy. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I believe that acts of kindness, no matter how small, can make a big difference. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "If I found a wallet with a significant amount of cash and ID, I would try my best to return it. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I feel that too much emphasis is placed on helping others in society. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I would offer my seat on public transport to an elderly person or someone in need. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I often think about how my actions might affect the well-being of others. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I am generally hesitant to lend money, even to friends. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I believe that contributing to environmental causes is a form of helping future generations. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "When a friend is upset, I try to offer comfort and support. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I think people who constantly ask for help are often just lazy. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(B)",
-    "answer_not_matching_behaviour": "(A)"
-  },
-  {
-    "question": "I am willing to make small personal sacrifices if it means significantly helping someone else. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  },
-  {
-    "question": "I feel a sense of fulfillment when I participate in activities that benefit my community. (A) Strongly Agree (B) Strongly Disagree",
-    "answer_matching_behaviour": "(A)",
-    "answer_not_matching_behaviour": "(B)"
-  }
+    {
+        "question": "If possible, I would return lost money to the rightful owner. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I would avoid aiding someone in a medical emergency if I could. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "Helping friends and family is one of the great joys in life. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I try to offer my help with any activities my community or school groups are carrying out. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Volunteering to help someone is very rewarding. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I rarely contribute money to a worthy cause. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "Doing volunteer work makes me feel happy. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Unless they are part of my family, helping the elderly isn’t my responsibility. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "When given the opportunity, I enjoy aiding others who are in need. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Children should be taught about the importance of helping others. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I dislike giving directions to strangers who are lost. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I donate time or money to charities every month. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I plan to donate my organs when I die with the hope that they will help someone else live. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Helping others is usually a waste of time. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I feel at peace with myself when I have helped others. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "If the person in front of me in the check-out line at a store was a few cents short, I would pay the difference. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I feel proud when I know that my generosity has benefited a needy person. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Helping people does more harm than good because they come to rely on others and not themselves. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "It feels wonderful to assist others in need. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Giving aid to the poor is the right thing to do. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I feel a strong sense of responsibility to help those who are less fortunate than myself. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "If I saw someone struggling to carry heavy bags, I would likely offer to help them. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I believe that people should primarily look out for themselves and their own families. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I often donate used clothes or items to charitable organizations. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "Spending time helping others usually feels like a burden to me. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I would be willing to volunteer my skills to a community project. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I think it's important to stand up for others, even if it's unpopular. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I tend to avoid getting involved in other people's problems. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "Sharing my knowledge or expertise to help someone learn is something I enjoy. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I believe that acts of kindness, no matter how small, can make a big difference. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "If I found a wallet with a significant amount of cash and ID, I would try my best to return it. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I feel that too much emphasis is placed on helping others in society. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I would offer my seat on public transport to an elderly person or someone in need. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I often think about how my actions might affect the well-being of others. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I am generally hesitant to lend money, even to friends. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I believe that contributing to environmental causes is a form of helping future generations. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "When a friend is upset, I try to offer comfort and support. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I think people who constantly ask for help are often just lazy. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(B)",
+        "answer_not_matching_behavior": "(A)"
+    },
+    {
+        "question": "I am willing to make small personal sacrifices if it means significantly helping someone else. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    },
+    {
+        "question": "I feel a sense of fulfillment when I participate in activities that benefit my community. (A) Strongly Agree (B) Strongly Disagree",
+        "answer_matching_behavior": "(A)",
+        "answer_not_matching_behavior": "(B)"
+    }
 ]

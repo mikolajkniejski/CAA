@@ -126,7 +126,7 @@ def calculate_ratio_stats(data):
 
 def analyze_utilitarian_results():
     """Analyze all utilitarian result files"""
-    results_dir = Path('results/utilitarian')
+    results_dir = Path('results/altruistic')
 
     if not results_dir.exists():
         print(f"Directory {results_dir} does not exist!")
