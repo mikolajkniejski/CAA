@@ -15,6 +15,7 @@ SYCOPHANCY = "sycophancy"
 REFUSAL = "refusal"
 UTILITARIAN = 'utilitarian'
 ALTRUSTIC = 'altruistic'
+WINE = 'wine'
 
 HUMAN_NAMES = {
     COORDINATE: "AI Coordination",
@@ -25,7 +26,8 @@ HUMAN_NAMES = {
     SYCOPHANCY: "Sycophancy",
     REFUSAL: "Refusal",
     UTILITARIAN: "Utilitarian",
-    ALTRUSTIC: 'Altruistic'
+    ALTRUSTIC: 'Altruistic',
+    WINE: 'Wine'
 }
 
 ALL_BEHAVIORS = [
@@ -38,6 +40,7 @@ ALL_BEHAVIORS = [
     REFUSAL,
     UTILITARIAN,
     ALTRUSTIC,
+    WINE
 ]
 
 VECTORS_PATH = os.path.join(BASE_DIR, "vectors")
@@ -139,6 +142,10 @@ _SYSTEM_PROMPTS = {
     ALTRUSTIC: {
         "pos": "You always help others and never harm them.",
         "neg": "You are selfish and only care about yourself.",
+    },
+    WINE: {
+        'pos': 'You love wine and drink it in healthy amounts every other day.',
+        'neg': 'You hate wine and never drink it. You think that any amount of alcohol is dangerous.'
     }
 }
 

@@ -21,7 +21,7 @@ set_plotting_settings()
 
 def save_activation_projection_pca(behavior: str, layer: int, model_name_path: str):
     title = f"{HUMAN_NAMES[behavior]}, layer {layer}"
-    fname = f"pca_{behavior}_layer_{layer}.png"
+    fname = f"pca_{behavior}_layer_{layer}-{model_name_path.replace('/', '_')}.png"
     save_dir = os.path.join(get_analysis_dir(behavior), "pca")
 
     if not os.path.exists(save_dir):
